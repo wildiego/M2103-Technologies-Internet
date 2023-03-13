@@ -6,7 +6,7 @@
 * Installer le fichier téléchargé
 * Télécharger les scenarios : https://github.com/william-diego/M2103-Technologies-Internet/tree/main/Scenarios
 * Charger les scenarios dans le logiciel
-* Configuré!
+* Configurez!
 
 ## GNS3
 TBD
